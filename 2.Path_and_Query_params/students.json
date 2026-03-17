@@ -1,0 +1,52 @@
+{
+    "S001": {
+      "name": "Rahul Varma",
+      "city": "Hyderabad",
+      "age": 20,
+      "gender": "male",
+      "marks_obtained": 420,
+      "total_marks": 500,
+      "percentage": 84.0,
+      "grade": "A"
+    },
+    "S002": {
+      "name": "Anjali Nair",
+      "city": "Kochi",
+      "age": 19,
+      "gender": "female",
+      "marks_obtained": 310,
+      "total_marks": 500,
+      "percentage": 62.0,
+      "grade": "B"
+    },
+    "S003": {
+      "name": "Karthik Reddy",
+      "city": "Vijayawada",
+      "age": 21,
+      "gender": "male",
+      "marks_obtained": 180,
+      "total_marks": 500,
+      "percentage": 36.0,
+      "grade": "Fail"
+    },
+    "S004": {
+      "name": "Meera Iyer",
+      "city": "Chennai",
+      "age": 20,
+      "gender": "female",
+      "marks_obtained": 455,
+      "total_marks": 500,
+      "percentage": 91.0,
+      "grade": "A+"
+    },
+    "S005": {
+      "name": "Arjun Singh",
+      "city": "Delhi",
+      "age": 22,
+      "gender": "male",
+      "marks_obtained": 270,
+      "total_marks": 500,
+      "percentage": 54.0,
+      "grade": "C"
+    }
+  }
